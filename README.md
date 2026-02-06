@@ -20,13 +20,16 @@ It features a pause screen that appears when the **Escape** key is pressed, as w
 Additionally, the game has a simple user interface displaying a **life bar** and an **ammo counter** during gameplay.
 
 <p align="center">
-  <img src="screenshots/menu.png" width="30%" />
-  <sub> Menu </sub>
-  <img src="screenshots/inGame.png" width="30%" />
-  <sub> Running </sub>
-  <img src="screenshots//screenGameOver.png" width="30%" />
-  <sub> Game Over </sub>
+    <img src="res/screenshots/menu.png" width="30%" />
+    <img src="res/screenshots/inGame.png" width="30%"/>
+    <img src="res/screenshots/gameOverScreen.png" width="30%"/><br>
+    <span>Menu ------------------------------  </span>
+    <span>-------------------Running------------------</span>
+    <span>  -------------------------- Game Over</span>
+    
 </p>
+
+
 
 ## Technical Details
 
